@@ -1,7 +1,6 @@
 
 body {
-	background-color: #ffe5ec;
-	font-family: 
+	background-color: #ff1493;
     
 }
 
@@ -10,30 +9,41 @@ ul {
 }
 
 .topnav {
-	background-color: white;
+	background-color:#8a2be2;
 	overflow:hidden;
 }
 
 .topnav a {
 	float: left;
-	color: #ffc2d1;
+	color: #7fff00;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 16px 16px;
 	text text-decoration: none;
-	font size: 17px;
+	font size: 70px;
 }
 
 .topnav a:hover{
-	background-color:#ffc2d1;
-	color:white;
+	background-color:#7fff00;
+	color :#8a2be2;
 }
-
-.topnav a. active {
-	background-color:#ffc2d1;
-	color:#ffb3c6;
-}
-
 
 h1 {
-	color: white;
+	font-size:50px;
+	color:#7fff00;
 }
+
+p {
+	font-size:25px;
+	color:#7fff00;
+}
+
+#photoHome {
+	background: url("homePhoto.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:200px;
+	padding: 60px 60px;
+}
+
+
+
