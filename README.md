@@ -1,2 +1,2 @@
 # Fashion-Website
-Explore different fashion styles through my website!
+Explore different fashion styles from the 2000s on this website!
