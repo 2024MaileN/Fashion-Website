@@ -17,9 +17,11 @@ ul {
 	float: left;
 	color: #7fff00;
 	text-align: center;
-	padding: 16px 16px;
-	text text-decoration: none;
-	font size: 70px;
+	padding: 16px 40px;
+	text-decoration: none;
+	padding-left:130px;
+	padding-right:130px ;
+	font size: 90px;
 }
 
 .topnav a:hover{
@@ -49,4 +51,29 @@ a {
 	color:#7fff00;
 	padding: 20px 20px;
 }
+
+a:hover {
+  color:#8a2be2;
+}
+
+img {
+   border-color: #8a2be2;
+   border-width: 5px;
+   border-style: solid;
+   border-radius: 10%;
+}
+
+
+#Scene {
+	padding-left: 200px;
+}
+
+#McBling {
+	padding-left: 200px;
+}
+
+#HipHop {
+	padding-left: 200px;
+}
+
 
